@@ -1,0 +1,29 @@
+# Environment variables and API keys
+
+.env
+.env.*
+!.env.example
+
+# Python-generated files
+
+**pycache**/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+
+.venv/
+venv/
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
